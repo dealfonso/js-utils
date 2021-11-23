@@ -20,6 +20,6 @@
         $.fn.jsutils = {};
     }
     $.fn.jsutils.getVersion = function() {
-        return "0.1";
+        return "1.0.0-beta";
     }
 })(jQuery);
